@@ -156,3 +156,21 @@ main{
     margin-top: 50px;
     text-align: center;
 }
+.contact{
+    padding: 130px 200px;
+    display: flex;
+    gap: 100px;
+    background: #fff8f3;
+}
+.contact input[type="text"], input[type="email"] textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+p{
+    text-align: center;
+}
+.contact a{
+    text-decoration: none;
+}
