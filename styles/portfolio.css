@@ -128,3 +128,31 @@ main{
 .section{
     margin-top: 130px;
 }
+.Resume-content{
+    display: flex;
+    gap: 25px;
+}
+.Resume .title{
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+    
+}
+.Resume .sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.Resume .description{
+    clear: #757575;
+}
+.Resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.Resume-button{
+    margin-top: 50px;
+    text-align: center;
+}
